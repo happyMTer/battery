@@ -1,0 +1,25 @@
+mse_tcn_attention: 0.0416
+mse_tcn: 0.0018
+mse_rnn: 0.0037
+mse_lstm: 0.0025
+------------------
+rmse_tcn_attention: 0.2040
+rmse_tcn: 0.0424
+rmse_rnn: 0.0611
+rmse_lstm: 0.0495
+------------------
+mae_tcn_attention: 0.1630
+mae_tcn: 0.0313
+mae_rnn: 0.0465
+mae_lstm: 0.0365
+------------------
+r2_tcn_attention: 0.9997
+r2_tcn: 1.0000
+r2_rnn: 1.0000
+r2_lstm: 1.0000
+------------------
+mape_tcn_attention: 3.9831
+mape_tcn: 0.5880
+mape_rnn: 0.9112
+mape_lstm: 0.5424
+------------------
